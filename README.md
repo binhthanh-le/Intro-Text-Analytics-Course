@@ -16,17 +16,17 @@ The material for Introduction Text Analytics Course (UCD)
 
 ## Schedule
 
-Week 1: Installation: Python Environment
-Week 2: Introduction about Data Analytics and Text Analytics: CRISP-DM project lifecycle
-Week 3: Data Preparation: Understand Data, Feature Extraction
-Week 4: Data Preparation: Data Visualisation
-Week 5: Data Preparation: Data Cleaning, Data Reduction
-Week 6: Similarity and Distance Measurement
-Week 7: Text Classification: Naïve Bayes, Decision Tree
-Week 8: Text Classification: Support Vector Machine
-Week 9: Text Clustering: K-Means Clustering
-Week 10: Text Clustering: Hierarchical Clustering
-Week 11: Discussion: Review and Future Plans
+- Week 1: Installation: Python Environment
+- Week 2: Introduction about Data Analytics and Text Analytics: CRISP-DM project lifecycle
+- Week 3: Data Preparation: Understand Data, Feature Extraction
+- Week 4: Data Preparation: Data Visualisation
+- Week 5: Data Preparation: Data Cleaning, Data Reduction
+- Week 6: Similarity and Distance Measurement
+- Week 7: Text Classification: Naïve Bayes, Decision Tree
+- Week 8: Text Classification: Support Vector Machine
+- Week 9: Text Clustering: K-Means Clustering
+- Week 10: Text Clustering: Hierarchical Clustering
+- Week 11: Discussion: Review and Future Plans
 
 ## References
 
@@ -42,6 +42,16 @@ Week 11: Discussion: Review and Future Plans
 - [Building an automatic keyphrase extraction system using NLTK in Python](https://in.pycon.org/cfp/2016/proposals/building-an-automatic-keyphrase-extraction-system-using-nltk-in-python~e9g4b/?ref=schedule)
 - [Text Processing: Keyword-extraction](http://textprocessing.org/tag/keyword-extraction)
 
+### Web Crawling
+
+- [Web Crawler – Python with Scrapy](http://www.treselle.com/blog/web-crawler-python-with-scrapy/)
+- [Installing and using Scrapy web crawler to search text on multiple sites](https://opensourcehacker.com/2011/03/08/installing-and-using-scrapy-web-crawler-to-search-text-on-multiple-sites/)
+- [Scrapy spider crawling Stack Overflow](https://gist.github.com/pawelmhm/8917867)
+- [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+- [Scrapy at a glance](https://doc.scrapy.org/en/latest/intro/overview.html)
+- [Building a Web Crawler with Scrapy](https://blog.siliconstraits.vn/building-web-crawler-scrapy/)
+- [Recursively Scraping A Blog With Scrapy](https://techcrunch.com/2016/11/19/how-data-science-and-rocke)
+
 ### Topic modeling reading list
 
 - [Latent Dirichlet allocation in C](http://www.cs.columbia.edu/~blei/lda-c/index.html)
@@ -52,16 +62,6 @@ Week 11: Discussion: Review and Future Plans
 - [Topic Models Video Lecture](http://videolectures.net/mlss09uk_blei_tm/), by David Blei.
 - [Topic models, large-scale learning](http://is.hust.edu.vn/~khoattq/codes.htm)
 - [A Fast And Scalable Topic-Modeling Toolbox](http://www.ics.uci.edu/~asuncion/software/fast.htm)
-
-### Web Crawling
-
-- [Web Crawler – Python with Scrapy](http://www.treselle.com/blog/web-crawler-python-with-scrapy/)
-- [Installing and using Scrapy web crawler to search text on multiple sites](https://opensourcehacker.com/2011/03/08/installing-and-using-scrapy-web-crawler-to-search-text-on-multiple-sites/)
-- [Scrapy spider crawling Stack Overflow](https://gist.github.com/pawelmhm/8917867)
-- [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
-- [Scrapy at a glance](https://doc.scrapy.org/en/latest/intro/overview.html)
-- [Building a Web Crawler with Scrapy](https://blog.siliconstraits.vn/building-web-crawler-scrapy/)
-- [Recursively Scraping A Blog With Scrapy](https://techcrunch.com/2016/11/19/how-data-science-and-rocke)
 
 ### Python environments
 
