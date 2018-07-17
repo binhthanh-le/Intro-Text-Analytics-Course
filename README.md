@@ -1,6 +1,6 @@
 # Intro-Text-Analytics-Course
-The material for Introduction Text Analytics Course (UCD)
-Lecturer: Dr. Binh Thanh Le
+- The material for Introduction Text Analytics Course (UCD)
+- Lecturer: Dr. Binh Thanh Le
 
 ## Learning outcome
 
